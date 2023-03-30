@@ -1,7 +1,13 @@
 package br.com.testeapispring.distrolinuxapi;
 
+import org.springframework.data.annotation.Id;
+import org.springframework.data.mongodb.core.mapping.Document;
+
+@Document(collection = "mostPopularDistros")
 public class DistroLinux {
 
+    @Id
+    private String id;
     private String title;
     private String image;
     private int ranking;
@@ -10,6 +16,10 @@ public class DistroLinux {
         this.title = title;
         this.image = image;
         this.ranking = ranking;
+    }
+
+    public DistroLinux() {
+
     }
 
     public String getTitle() {
@@ -22,5 +32,9 @@ public class DistroLinux {
 
     public int getRanking() {
         return ranking;
+    }
+
+    public String getId() {
+        return id;
     }
 }

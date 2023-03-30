@@ -1,24 +1,3 @@
-1	mx-linux	https://distrowatch.com/images/yvzhuwbpy/mx.png
-2	endeavouros	https://distrowatch.com/images/yvzhuwbpy/endeavour.png
-3	mint		https://distrowatch.com/images/yvzhuwbpy/mint.png
-4	manjaro	    https://distrowatch.com/images/yvzhuwbpy/manjaro.png
-5	pop!_os	    https://distrowatch.com/images/yvzhuwbpy/popos.png
-6	fedora	    https://distrowatch.com/images/yvzhuwbpy/fedora.png
-7	ubuntu	    https://distrowatch.com/images/yvzhuwbpy/ubuntu.png
-8	debian	    https://distrowatch.com/images/yvzhuwbpy/debian.png
-9	lite		https://distrowatch.com/images/yvzhuwbpy/lite.png
-10	garuda	    https://distrowatch.com/images/yvzhuwbpy/garuda.png
-11	opensuse	https://distrowatch.com/images/yvzhuwbpy/opensuse.png
-12	zorin		https://distrowatch.com/images/yvzhuwbpy/zorin.png
-13	elementary	https://distrowatch.com/images/yvzhuwbpy/elementary.png
-14	kde-neon	https://distrowatch.com/images/yvzhuwbpy/kdeneon.png
-15	antix		https://distrowatch.com/images/yvzhuwbpy/antix.png
-16	almalinux	https://distrowatch.com/images/yvzhuwbpy/alma.png
-17	kali		https://distrowatch.com/images/yvzhuwbpy/kali.png
-18	pclinuxos	https://distrowatch.com/images/yvzhuwbpy/pclinuxos.png
-19	arcolinux	https://distrowatch.com/images/yvzhuwbpy/arco.png
-20	puppy		https://distrowatch.com/images/yvzhuwbpy/puppy.png
-
 1	MX Linux	https://distrowatch.com/images/yvzhuwbpy/mx.png
 2	EndeavourOS	https://distrowatch.com/images/yvzhuwbpy/endeavour.png
 3	Mint		https://distrowatch.com/images/yvzhuwbpy/mint.png
